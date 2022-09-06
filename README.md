@@ -1,6 +1,16 @@
 
 <h1 align="center"> Hi there 👋 </h1>
 <p align="center"> I am Nhi Nguyen. I Love ❤️ programming and currently looking for a Frontend engineer position. </p>
+<div align="center"><a href="https://portfolio-v2-eta-henna.vercel.app/"><strong>View My Portfolio</strong></a></div>
+<br/>
+<div align="center" style="background:#414a50; padding: 25px 0;">
+    <a href="https://twitter.com/yMihN1">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
+    </a>
+     <a href="https://www.linkedin.com/in/nhi-nguyen-3309ba193/">
+        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
+    </a>
+</div>
 <img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
 <h3 align="left"> Languages, Frameworks & Skills </h3>
 
