@@ -2,16 +2,30 @@
 <h1 align="center"> Hi there 👋 </h1>
 <p align="center"> I am Nhi Nguyen. I Love ❤️ programming and currently looking for a Frontend engineer position. </p>
 <img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
-<h3 align="center"> Languages, Frameworks & Skills </h3>
+<h3 align="left"> Languages, Frameworks & Skills </h3>
 
-- JavaScipt
+- JavaScipt 
 - TypeScript
+- React
 - Nextjs
 - Nodejs
 - Expressjs
 - Web Development
 - HTML5, CSS3
+- Python
+- R
+- C
 - App Development
+
+<h3 align="left"> Tools & Platforms </h3>
+
+- Git
+- Webpack
+- Netlify
+- Heroku
+- Postman
+- Firebase
+- Docker
 
 <h4 align="center">Things got bugs, gonna smash them one by one</h4>
 
