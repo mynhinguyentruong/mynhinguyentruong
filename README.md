@@ -1,6 +1,6 @@
 
 <h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am Nhi Nguyen. I Love ❤️ programming and currently looking for a Frontend engineer position. </p>
+<p align="center"> I am Nhi Nguyen. I Love ❤️ programming and currently looking for a FullStack Engineer position. </p>
 <div align="center"><a href="https://portfolio-v2-eta-henna.vercel.app/"><strong>View My Portfolio</strong></a></div>
 <br/>
 <div align="center" style="background:#414a50; padding: 25px 0;">
