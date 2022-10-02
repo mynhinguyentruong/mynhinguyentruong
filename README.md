@@ -17,9 +17,9 @@
 - JavaScipt 
 - TypeScript
 - React
-- Nextjs
-- Nodejs
-- Expressjs
+- Next.js
+- Node.js
+- Express.js
 - Web Development
 - HTML5, CSS3
 - Python
