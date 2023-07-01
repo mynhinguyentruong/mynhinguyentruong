@@ -14,20 +14,10 @@
     </a>
 </div>
 <img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
-<h3 align="left"> Languages, Frameworks & Skills </h3>
-
-- JavaScipt 
-- TypeScript
-- React
-- Next.js
-- Node.js
-- Express.js
-- Web Development
-- HTML5, CSS3
-- Python
-- R
-- C
-- App Development
+<h3 align="left"> Languages </h3>
+<p>JavaScipt, TypeScript, Go, Rust, Elixir, Python, R, C, HTML5, CSS3</p>
+<h3 align="left"> Libraries, Frameworks & Skills </h3>
+<p>React, Next.js, Node.js, Express.js</p>
 
 <h3 align="left"> Tools & Platforms </h3>
 
