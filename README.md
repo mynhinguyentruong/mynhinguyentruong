@@ -31,10 +31,9 @@
 
 <h4 align="center">Things got bugs, gonna smash them one by one</h4>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mynhinguyentruong&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynhinguyentruong&langs_count=9)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mynhinguyentruong&theme=gruvbox)](https://github.com/mynhinguyentruong/github-profile-trophy)
-- 📝 I regulary write articles on [Nhi's Blog](http://mynhinguyentruong.github.io/)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mynhinguyentruong&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
 
 <p align="center">
 <a href="https://dev.to/mynhinguyentruong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aayushi-droid" height="40" width="40" /></a>
