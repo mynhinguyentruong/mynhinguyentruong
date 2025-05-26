@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi there 👋 </h1>
 <p align="center"> I am Nhi Nguyen. I Love ❤️ programming and currently looking for a FullStack Engineer position. </p>
-<div align="center"><a href="https://www.ymihn.fyi/"><strong>View My Portfolio</strong></a></div>
+<div align="center"><a href="https://www.nhi.today/"><strong>View My Portfolio</strong></a></div>
 <div align="center"><a href="https://docs.google.com/document/d/1Gv6eVtLrne1cOBEy_AqBSYuYmN0vc-6vuf4WgVyIb64/edit?usp=sharing"><strong>View My Resume</strong></a></div>
 
 <br/>
