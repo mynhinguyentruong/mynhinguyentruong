@@ -36,9 +36,9 @@ SvelteKit, NextJS, ExpressJS, AngularJS, .NET
 
 I'm always open to discussing new opportunities, collaborations, or just sharing insights.
 
-* [Your LinkedIn Profile](https://www.linkedin.com/in/nhi-nguyen-3309ba193/)
-* [Your Portfolio Website ](https://www.nhi.today/)
-* [Your Email Address](mailto:hotwebdev27@gmail.com)
+* [LinkedIn Profile](https://www.linkedin.com/in/nhi-nguyen-3309ba193/)
+* [Portfolio Website ](https://www.nhi.today/)
+* [Email Address](mailto:hotwebdev27@gmail.com)
 * [I decided not to be on X, because I don't support Elon]
 
 ---
