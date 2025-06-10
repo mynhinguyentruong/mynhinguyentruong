@@ -1,44 +1,44 @@
+# Hello, I'm Nhi 👋
 
-<h1 align="center"> Hi there 👋 </h1>
-<p align="center"> I am Nhi Nguyen. I Love ❤️ programming and currently looking for a FullStack Engineer position. </p>
-<div align="center"><a href="https://www.nhi.today/"><strong>View My Portfolio</strong></a></div>
-<div align="center"><a href="https://docs.google.com/document/d/1Gv6eVtLrne1cOBEy_AqBSYuYmN0vc-6vuf4WgVyIb64/edit?usp=sharing"><strong>View My Resume</strong></a></div>
+### From HR to Engineering: My Journey into Code & Impact
 
-<br/>
-<div align="center" style="background:#414a50; padding: 25px 0;">
-    <a href="https://twitter.com/yMihN1">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/twitter.svg" alt="Follow me on twitter">
-    </a>
-     <a href="https://www.linkedin.com/in/nhi-nguyen-3309ba193/">
-        <img src="https://raw.githubusercontent.com/Iwi4a/iwi4a/master/assets/linkedin.svg" alt="Connect on Linkedin">
-    </a>
-</div>
-<img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
-<h3 align="left"> Languages </h3>
-<p>JavaScipt, TypeScript, Go, Rust, Elixir, Python, R, C, HTML5, CSS3</p>
-<h3 align="left"> Libraries, Frameworks & Skills </h3>
-<p>React, Next.js, Node.js, Express.js</p>
+My path into software engineering wasn't typical. Fresh out of college with an HR degree, I felt a deep desire to **build something that truly mattered**. What started as a hobby in 2021 quickly transformed into a revelation: coding offered a direct "superpower" – the ability to craft solutions, solve real-world problems, and turn ideas into tangible products. That feeling of direct impact was incredibly empowering, and by 2022, I knew I had to jump in with both feet.
 
-<h3 align="left"> Tools & Platforms </h3>
+---
 
-- Git
-- Webpack
-- Netlify
-- Heroku
-- Postman
-- Firebase
-- Docker
+### Two Years in the Dev Trenches 🚀
 
-<h4 align="center">Things got bugs, gonna smash them one by one</h4>
+After two years immersed in full stack development, primarily with **JavaScript, TypeScript, React, Nodejs, PHP and Laravel**, I've experienced the full spectrum of building. From the sheer joy of creating intuitive user interfaces to the sometimes-frustrating (and then hilariously satisfying) moments of battling stubborn bugs, every challenge has fueled my passion. I love the grit of problem-solving and the ultimate satisfaction of shipping user-centric features.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynhinguyentruong&langs_count=9)
+My drive comes from a deep desire to make a huge, tangible difference through technology. I'm always seeking opportunities to apply my skills to missions that genuinely help people and empower positive change.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mynhinguyentruong&show_icons=true&include_all_commits=true&theme=blue-white&count_private=true" alt="github stats">
+---
 
-<p align="center">
-<a href="https://dev.to/mynhinguyentruong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aayushi-droid" height="40" width="40" /></a>
-</p>
+### My Core Skills 🛠️
 
------
+* **Languages:** JavaScript, TypeScript, Golang, Python, PHP
+* **Front-End:** React, HTML, CSS, Laravel
+* **Tools & Concepts:** Git, Responsive Design, API Integration, Docker, Kubernetes, Istio, GraphQL, TensorFlow, Keras, Next.js, React, Node.js, Laravel, Git, Flask, Pandas, Phoenix,
+SvelteKit, NextJS, ExpressJS, AngularJS, .NET
+* **Databases:** Postgresql, Mysql, Nosql, MongoDB, R Studio, Tableau
+* **Cloud Architecture:** AWS, Azure, Digital Ocean, Fly.io
+---
 
-Last Edited on: 27/06/2022
+### What Drives Me
+
+* **Impact-driven development:** Building meaningful solutions that solve real problems for real users.
+* **Continuous learning & growth:** Embracing challenges and new technologies to expand my "superpower."
+* **Collaborative problem-solving:** I thrive in dynamic teams where we can break down complex issues and build robust, clean, and extensible code together.
+
+---
+
+### Let's Connect & Build Something Amazing! 🤝
+
+I'm always open to discussing new opportunities, collaborations, or just sharing insights.
+
+* [Your LinkedIn Profile](https://www.linkedin.com/in/nhi-nguyen-3309ba193/)
+* [Your Portfolio Website ](https://www.nhi.today/)
+* [Your Email Address](mailto:hotwebdev27@gmail.com)
+* [I decided not to be on X, because I don't support Elon]
+
+---
