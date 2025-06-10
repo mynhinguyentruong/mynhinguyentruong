@@ -1,6 +1,6 @@
 # Hello, I'm Nhi 👋
 
-### From HR to Engineering
+### From HR to Engineering 👩‍💻
 
 My path into software engineering wasn't typical. Fresh out of college with an HR degree, I felt a deep desire to **build something that truly mattered**. What started as a hobby in 2021 quickly transformed into a revelation: coding offered a direct "superpower" – the ability to craft solutions, solve real-world problems, and turn ideas into tangible products. That feeling of direct impact was incredibly empowering, and by 2022, I knew I had to jump in with both feet.
 
