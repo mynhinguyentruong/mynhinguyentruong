@@ -2,15 +2,13 @@
 
 ### From HR to Engineering 👩‍💻
 
-My path into software engineering wasn't typical. Fresh out of college with an HR degree, I felt a deep desire to **build something that truly mattered**. What started as a hobby in 2021 quickly transformed into a revelation: coding offered a direct "superpower" – the ability to craft solutions, solve real-world problems, and turn ideas into tangible products. That feeling of direct impact was incredibly empowering, and by 2022, I knew I had to jump in with both feet.
+Use my own software building skill to solve my own problems, how cool is that? Hence the birth of TrackrAI.
 
 ---
 
 ### Two Years in the Dev Trenches 🚀
 
-After two years immersed in full stack development, primarily with **JavaScript, TypeScript, React, Nodejs, PHP and Laravel**, I've experienced the full spectrum of building. From the sheer joy of creating intuitive user interfaces to the sometimes-frustrating (and then hilariously satisfying) moments of battling stubborn bugs, every challenge has fueled my passion. I love the grit of problem-solving and the ultimate satisfaction of shipping user-centric features.
-
-My drive comes from a deep desire to make a huge, tangible difference through technology. I'm always seeking opportunities to apply my skills to missions that genuinely help people and empower positive change.
+Damn, time passed quickly, 2 years already??? Still building, still learning
 
 ---
 
@@ -26,9 +24,8 @@ SvelteKit, NextJS, ExpressJS, AngularJS, .NET
 
 ### What Drives Me
 
-* **Impact-driven development:** Building meaningful solutions that solve real problems for real users.
-* **Continuous learning & growth:** Embracing challenges and new technologies to expand my "superpower."
-* **Collaborative problem-solving:** I thrive in dynamic teams where we can break down complex issues and build robust, clean, and extensible code together.
+* **Impact:** solutions that solve real problems for real human being.
+* **Continuous failing, learning & growth:** challenges, new technologies, ooooo, sounds fastinating! Breaking things and learned tremendously from it, god damn!
 
 ---
 
